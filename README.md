@@ -25,7 +25,7 @@ Mobile responsive E-commerce website pseudo-selling historical art pieces and li
 
 ## Deploy
 
-To be deployed live @ Heroku
+https://afternoon-ocean-89274.herokuapp.com/
 
 
 
